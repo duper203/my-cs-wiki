@@ -13,5 +13,8 @@ replace each pixel with other values
 
 - 장점 3가지
 - 신경 써야하는 조건
-	-[Kernal]
+	- [Kernal]
+	- [Stride]
+	- [Bias]
+- 단점
 	
