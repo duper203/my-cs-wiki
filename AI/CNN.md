@@ -17,4 +17,10 @@ replace each pixel with other values
 	- [Stride]
 	- [Bias]
 - 단점
-	
+
+### 4. Convolution Layer 출력 크기
+- [Padding]
+- [Stride]
+
+### 5. 이미지의 합성곱 연산
+- 필터의 채널 수 = 입력 값의 채널 수
