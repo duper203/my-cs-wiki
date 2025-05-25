@@ -9,3 +9,9 @@ replace each pixel with other values
 
 
 ### 3. 합성곱 연산
+학습 가능한 '이미지' 필터 연산을 통해 특징 추출
+
+- 장점 3가지
+- 신경 써야하는 조건
+	-[Kernal]
+	
