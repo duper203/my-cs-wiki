@@ -29,4 +29,7 @@ Effectiveness of Dropout
 	**실제 Test 에서는 dropout 작동을 꺼두고 모든 가중치를 활용하여 연산 진행**
 	-> Train 할 때 dropout 했던 것 들을 Test 할 때는 다시 다 가져오기
 
-# 2. Weight initialization (가중치 촉)
+# 2. Weight initialization (가중치 초기화)
+
+가중치의 초기값 설정
+- 초기값을 어떻게 설정하느냐가 학습에 중요한 영향을 미치고 초기값을 설정하는 다양한 바법들이 존재한다
