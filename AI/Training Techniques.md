@@ -1,7 +1,7 @@
 # 1. 모델 정규화
-1. 방법 1 : 최적의 hyperparameter 탐색
-2. 방법 2: drop out
-목표
+1. **방법 1** : 최적의 hyperparameter 탐색
+2. **방법 2:** drop out
+**목표**
 - 과대 적합을 방지
 - 테스트 성능 최대로 확보
 
@@ -12,7 +12,7 @@
 그렇다면 최적의 hyperparameter 찾는 방법
 - 테스트(Test) 데이터 셋 : 사용 불가
 - 검증(Validation) 데이터 셋 : 사용하기
-방법:
+**방법**:
 	1) hyperparameter 세팅하고 Training set 학습
 	2) Validation set 정확도 측정
 	3) 해당 정확도 바탕을 hyperparameter 재설정
@@ -37,4 +37,5 @@ Effectiveness of Dropout
 		- 가중치를 0으로 초기화
 		- 가중치를 임의의 상수로 초기화
 	- 분포 초기화 : 가우시안정규 분포 활용
-	-  
+- 초기값을 아주 작은 난수로 초기화 경우의 문제....
+	- 
