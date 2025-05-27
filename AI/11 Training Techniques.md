@@ -43,3 +43,4 @@
 - 대표적인 가중치 초기화 방식
 	- Xavier initialization
 	- He initialization
+	
