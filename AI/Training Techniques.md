@@ -17,4 +17,5 @@
 	2) Validation set 정확도 측정
 	3) 해당 정확도 바탕을 hyperparameter 재설정
 만약 validation set 이 없다면...
-	
+	- 학습 데이터 셋의 일부를 활용
+	- 
