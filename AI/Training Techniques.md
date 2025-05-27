@@ -1,4 +1,4 @@
-# 모델 정규화
+# 1. 모델 정규화
 1. 방법 1 : 최적의 hyperparameter 탐색
 2. 방법 2: drop out
 목표
@@ -27,4 +27,6 @@ Effectiveness of Dropout
 	가중치가 특정 feature에 대해서만 작동하지 않고 균등하게 학습하게 유도함
 	안 보이는 데이터에 better performance
 	**실제 Test 에서는 dropout 작동을 꺼두고 모든 가중치를 활용하여 연산 진행**
-	-> Train 할 때 dropout 했던 것들을 
+	-> Train 할 때 dropout 했던 것 들을 Test 할 때는 다시 다 가져오기
+
+# 2. Weight initialization (가중치 촉)
