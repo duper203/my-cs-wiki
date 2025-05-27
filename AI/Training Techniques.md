@@ -20,5 +20,6 @@
 	- 학습 데이터 셋의 일부를 활용
 
 ## Dropout
-- 신경망의 뉴런을 임의로 삭제하면서 "학습" := 학습 때는 은닉층 (hidden layer) 의 뉴런을 무작위로 골라 삭제
-- 
+- 신경망의 뉴런을 임의로 삭제하면서 "학습" := 학습 때는 은닉층 (hidden layer) 의 뉴런을 무작위로 골라 삭제하는 방식이다
+- 이때 Hyperparameter는 'Dropout rate' 
+	- dropou
