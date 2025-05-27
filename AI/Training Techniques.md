@@ -16,3 +16,5 @@
 	1) hyperparameter 세팅하고 Training set 학습
 	2) Validation set 정확도 측정
 	3) 해당 정확도 바탕을 hyperparameter 재설정
+만약 validation set 이 없다면...
+	
