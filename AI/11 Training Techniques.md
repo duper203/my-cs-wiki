@@ -1,7 +1,11 @@
-[Generalization]
+1 [Generalization]
 	[hyperparameter]
 	[drop out]
-
+2 [Weight initialization (가중치 초기화)]
+	[상수 초기화]
+	[분포 초기화]
+3 [코드]
+4
 # 1. 모델 정규화
 1. **방법 1** : 최적의 hyperparameter 탐색
 2. **방법 2:** drop out
