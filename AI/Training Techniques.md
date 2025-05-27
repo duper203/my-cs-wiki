@@ -22,4 +22,6 @@
 ## Dropout
 - 신경망의 뉴런을 임의로 삭제하면서 "학습" := 학습 때는 은닉층 (hidden layer) 의 뉴런을 무작위로 골라 삭제하는 방식이다
 - 이때 Hyperparameter는 'Dropout rate' 
-	- dropou
+	- dropout rate 는 각 레이에어서 총 뉴런 중에 끈 뉴런의 비율이 됨
+Effectiveness of Dropout
+	가중치가 특정 feature에 대해서만 작동하지 않고 균등하게 학습하게 유도함
