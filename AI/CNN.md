@@ -24,3 +24,4 @@ replace each pixel with other values
 
 ### 5. 이미지의 합성곱 연산
 - 필터의 채널 수 = 입력 값의 채널 수
+- 
