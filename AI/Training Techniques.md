@@ -12,3 +12,7 @@
 그렇다면 최적의 hyperparameter 찾는 방법
 - 테스트(Test) 데이터 셋 : 사용 불가
 - 검증(Validation) 데이터 셋 : 사용하기
+방법:
+	1) hyperparameter 세팅하고 Training set 학습
+	2) Validation set 정확도 측정
+	3) 해당 정확도 바탕을 hyperparameter 재설정
