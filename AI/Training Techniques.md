@@ -25,3 +25,4 @@
 	- dropout rate 는 각 레이에어서 총 뉴런 중에 끈 뉴런의 비율이 됨
 Effectiveness of Dropout
 	가중치가 특정 feature에 대해서만 작동하지 않고 균등하게 학습하게 유도함
+		ㅇ
