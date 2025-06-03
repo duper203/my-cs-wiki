@@ -1,4 +1,8 @@
 목차
+1. 생성모델이란?
+2. Computer vision
+	- autoencoder, variational AE
+	- genera
 # 목표
 개념 : 생성 모델은 무엇인지
 
