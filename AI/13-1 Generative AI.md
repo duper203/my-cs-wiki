@@ -1,7 +1,7 @@
 목차
-1. 생성모델이란?
-2. (생성모델의 종류) Computer vision
-	- autoencoder, variational AE
+1. **생성모델이란?**
+2. **(생성모델의 종류) Computer vision**
+	- **autoencoder, variational AE**
 	- generative adversarial networks
 	- diffusion
 
